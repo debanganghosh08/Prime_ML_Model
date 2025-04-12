@@ -35,6 +35,10 @@ The purpose of this project is to:
 
 ---
 
+![image](https://github.com/user-attachments/assets/2732488a-da22-41f1-95f2-c38584175434)
+
+---
+
 ## 🔧 Features
 
 - ✅ Logistic Regression
