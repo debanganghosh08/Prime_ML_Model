@@ -1,0 +1,6 @@
+Model,Tuned Mean CV Accuracy,Best Parameters,AUC Score
+XGBoost,0.8068884052192196,"{'learning_rate': 0.2, 'max_depth': 3, 'n_estimators': 50}",0.8448384096721693
+SVM,0.8052915598241768,"{'C': 1, 'kernel': 'rbf'}",0.8171148828437831
+Logistic Regression,0.8026283646519076,"{'C': 0.01, 'solver': 'lbfgs'}",0.8388178459789712
+Random Forest,0.797481012638278,"{'max_depth': None, 'min_samples_split': 5, 'n_estimators': 100}",0.8347645250458551
+Decision Tree,0.7903806298177622,"{'max_depth': 5, 'min_samples_split': 10}",0.8271551835490454
